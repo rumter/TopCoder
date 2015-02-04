@@ -6,15 +6,15 @@
 
 **Division 1**
 
-* Level One [BuildingTowersEasy](http://community.topcoder.com/stat?c=problem_statement&pm=13634&rd=16279)
-* Level Two [CtuRobots](http://community.topcoder.com/stat?c=problem_statement&pm=13595&rd=16279)
-* Level Three [ConvenientBlock](http://community.topcoder.com/stat?c=problem_statement&pm=13558&rd=16279)
+* BuildingTowersEasy [Statement][stmt_11]
+* CtuRobots [Statement][stmt_12]
+* ConvenientBlock [Statement][stmt_13]
 
 **Division 2**
 
-* Level One [PeacefulLine](http://community.topcoder.com/stat?c=problem_statement&pm=13632&rd=16279)
-* Level Two [TravellingSalesmanEasy](http://community.topcoder.com/stat?c=problem_statement&pm=13631&rd=16279)
-* Level Three [BuildingTowers](http://community.topcoder.com/stat?c=problem_statement&pm=13606&rd=16279)
+* PeacefulLine [Statement][stmt_21], [Solution](#peacefulline)
+* TravellingSalesmanEasy [Statement][stmt_22], [Solution](#travellingsalesmaneasy)
+* BuildingTowers [Statement][stmt_23]
 
 
 ## Решения
@@ -42,3 +42,10 @@
 
 [Результаты](http://community.topcoder.com/stat?c=round_overview&er=5&rd=16279)
 
+
+[stmt_11]: http://community.topcoder.com/stat?c=problem_statement&pm=13634&rd=16279
+[stmt_12]: http://community.topcoder.com/stat?c=problem_statement&pm=13595&rd=16279
+[stmt_13]: http://community.topcoder.com/stat?c=problem_statement&pm=13558&rd=16279
+[stmt_21]: http://community.topcoder.com/stat?c=problem_statement&pm=13632&rd=16279
+[stmt_22]: http://community.topcoder.com/stat?c=problem_statement&pm=13631&rd=16279
+[stmt_23]: http://community.topcoder.com/stat?c=problem_statement&pm=13606&rd=16279
